@@ -54,9 +54,7 @@ ecommerce-sales-analytics-dashboard/
 
 ---
 
-## 📈 Dashboard Preview
-
-(Add dashboard screenshot here)
+## 📈 Dashboard 
 
 ---
 
