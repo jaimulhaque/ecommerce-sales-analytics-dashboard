@@ -6,10 +6,6 @@
 ![Status](https://img.shields.io/badge/Project-In%20Progress-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-
-
-# 📊 E-Commerce Sales Analytics Dashboard
-
 An end-to-end Data Analytics project that analyzes e-commerce sales data using SQL, Python, and Power BI. This project focuses on uncovering business insights through data cleaning, exploratory data analysis (EDA), SQL querying, and interactive dashboard creation.
 
 ---
