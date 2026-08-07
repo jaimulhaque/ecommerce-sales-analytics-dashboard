@@ -159,3 +159,9 @@ Computer Science Student | Aspiring Data Analyst | SQL • Python • Power BI
 - GitHub: https://github.com/jaimulhaque
 - LinkedIn: https://www.linkedin.com/in/jaimul-haque-317b07374/
 
+## 📬 Contact
+
+If you have any questions, suggestions, or collaboration opportunities, feel free to connect with me.
+
+- GitHub: https://github.com/jaimulhaque
+- LinkedIn: https://www.linkedin.com/in/jaimul-haque-317b07374/
